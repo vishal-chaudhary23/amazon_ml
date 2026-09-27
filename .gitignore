@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+.env
+
+models/
+outputs/
+
+*.pkl
+*.joblib
+
+# Large datasets
+data/*.tsv
+data/*.csv
+data/*.zip
